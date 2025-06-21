@@ -14,6 +14,9 @@
 
 BOBTHEBREAKER is a 2.5D beat-em-up game that merges 2D character art with a fully 3D environment, delivering a unique visual and gameplay experience. The project emphasizes originality, with all characters and animations crafted from scratch and minimal use of templates. The narrative is delivered through custom-made cutscenes.
 
+
+![image](https://github.com/user-attachments/assets/d2682b13-3f40-463b-8100-c6723ee6dbad)
+
 ---
 
 ## **Key Features**
@@ -51,8 +54,6 @@ BOBTHEBREAKER is a 2.5D beat-em-up game that merges 2D character art with a full
     
 - **Progression**: Levels and challenges increase in complexity as the player advances.
     
-
-![image](https://github.com/user-attachments/assets/d2682b13-3f40-463b-8100-c6723ee6dbad)
 
 ---
 
